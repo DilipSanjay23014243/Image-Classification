@@ -217,7 +217,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### New Sample Data Prediction
 
-<img width="572" height="456" alt="image" src="https://github.com/user-attachments/assets/fa95c293-d7f7-4986-bd1a-84f902b94a59" />
+![WhatsApp Image 2025-11-24 at 22 27 57_344f1661](https://github.com/user-attachments/assets/5aa2a364-350f-452d-af83-54ed4015dba5)
 
 ## RESULT
 The Convolutional Neural Network was successfully implemented for FashionMNIST image classification. The model achieved good accuracy on the test dataset and produced reliable predictions for new images, proving its effectiveness in extracting spatial features from images.
